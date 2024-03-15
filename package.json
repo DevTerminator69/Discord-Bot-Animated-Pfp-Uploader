@@ -1,0 +1,25 @@
+{
+  "name": "sai",
+  "version": "1.0.0",
+  "description": "custom for sai",
+  "main": "index.ts",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevTerminator69/Dokdo.git"
+  },
+  "keywords": [
+    "sai"
+  ],
+  "author": "sai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevTerminator69/Dokdo/issues"
+  },
+  "homepage": "https://github.com/DevTerminator69/Dokdo#readme",
+  "dependencies": {
+    "sai": "^3.0.0"
+  }
+}
