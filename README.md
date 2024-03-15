@@ -1,6 +1,3 @@
-Certainly! Here's the updated message with the addition of the statement "All rights are reserved by Terminator":
-
----
 
 **Animated Profile Picture Uploader for Discord Bot**
 
