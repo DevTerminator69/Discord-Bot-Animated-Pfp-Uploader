@@ -2,13 +2,13 @@
   "name": "sai",
   "version": "1.0.0",
   "description": "custom for sai",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "index"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevTerminator69/Dokdo.git"
+    "url": "git+https://github.com/DevTerminator69"
   },
   "keywords": [
     "sai"
@@ -16,10 +16,10 @@
   "author": "sai",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DevTerminator69/Dokdo/issues"
+    "url": "https://github.com/DevTerminator69"
   },
-  "homepage": "https://github.com/DevTerminator69/Dokdo#readme",
+  "homepage": "https://github.com/DevTerminator69",
   "dependencies": {
-    "sai": "^3.0.0"
+    "discord.js": "^13.10.0"
   }
 }
