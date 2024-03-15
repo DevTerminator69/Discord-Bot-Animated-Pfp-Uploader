@@ -17,7 +17,7 @@ client.on('ready', async () => {
     console.log(`Bot Logged As: ${client.user.tag}`);
 
     const currentDirectory = path.dirname(__filename);
-    const avatarPath = path.join(currentDirectory, '609_1000.gif');
+    const avatarPath = path.join(currentDirectory, 'yourfilenamehere');
 
     try {
         const avatar = fs.readFileSync(avatarPath);
