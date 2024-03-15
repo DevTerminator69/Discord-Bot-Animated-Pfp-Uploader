@@ -5,8 +5,8 @@ const fs = require('fs');
 const path = require('path');
 
 
-client.login('MTAxMzgyNzA3MTY0NDAxMjU1NA.Gt8nWi.Nj3I8DfFESyuTSqj5Z_bLpsEz-TmJIUH6Cgjos').catch((e) => {
-  console.log(`\n{!} :: Failed to log in.. Please check if your bot token is valid or it has all intents enabled..`)
+client.login('token here').catch((e) => {
+  console.log(`\n INVALID TOKEN OR MISSING INTENT'S`)
   setTimeout(() => {
     process.exit();
   }, 5000)
